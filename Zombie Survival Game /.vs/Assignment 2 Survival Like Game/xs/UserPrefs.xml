@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{460D2F17-7716-333D-C8B8-E774B085E074}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemy.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/Health.cs" Line="5" Column="23" />
+      <File FileName="Assets/Scripts/Player.cs" Line="40" Column="36" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" Line="12" Column="6" />
+      <File FileName="Assets/Scripts/Weapons/Police9mm.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/Weapons/PortableMagnum.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/Weapons/WeaponBase.cs" Line="52" Column="76" />
+      <File FileName="Assets/Scripts/Weapons/WeaponManager.cs" Line="10" Column="14" />
+      <File FileName="Assets/Scripts/HealthUI.cs" Line="12" Column="47" />
+      <File FileName="Assets/Scripts/CashSystem.cs" Line="15" Column="24" />
+      <File FileName="Assets/Scripts/KillReward.cs" Line="5" Column="30" />
+      <File FileName="Assets/Scripts/Weapons/Compact9mm.cs" Line="5" Column="37" />
+      <File FileName="Assets/Scripts/Weapons/UMP45.cs" Line="5" Column="32" />
+      <File FileName="Assets/Scripts/Weapons/StovRifle.cs" Line="5" Column="36" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="95" Column="40" />
+      <File FileName="Assets/Scripts/UI/Viewbase.cs" Line="23" Column="37" />
+      <File FileName="Assets/Scripts/UI/StartView.cs" Line="39" Column="35" />
+      <File FileName="Assets/Scripts/UI/OptionsView.cs" Line="4" Column="36" />
+      <File FileName="Assets/Scripts/UI/ViewInitializer.cs" Line="16" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
